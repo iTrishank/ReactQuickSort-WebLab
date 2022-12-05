@@ -2,7 +2,7 @@
   "name": "quicksort",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/iTrishank/ReactQuickSort-WebLab",
+  "homepage": "http://iTrishank.github.io/ReactQuickSort-WebLab",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@testing-library/jest-dom": "^5.11.9",
