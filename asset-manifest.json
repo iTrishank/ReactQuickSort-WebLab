@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/iTrishank/ReactQuickSort-WebLab/static/css/main.e86bfab0.chunk.css",
+    "main.js": "/iTrishank/ReactQuickSort-WebLab/static/js/main.fa9975cc.chunk.js",
+    "main.js.map": "/iTrishank/ReactQuickSort-WebLab/static/js/main.fa9975cc.chunk.js.map",
+    "runtime-main.js": "/iTrishank/ReactQuickSort-WebLab/static/js/runtime-main.821ffa70.js",
+    "runtime-main.js.map": "/iTrishank/ReactQuickSort-WebLab/static/js/runtime-main.821ffa70.js.map",
+    "static/js/2.09262563.chunk.js": "/iTrishank/ReactQuickSort-WebLab/static/js/2.09262563.chunk.js",
+    "static/js/2.09262563.chunk.js.map": "/iTrishank/ReactQuickSort-WebLab/static/js/2.09262563.chunk.js.map",
+    "index.html": "/iTrishank/ReactQuickSort-WebLab/index.html",
+    "static/css/main.e86bfab0.chunk.css.map": "/iTrishank/ReactQuickSort-WebLab/static/css/main.e86bfab0.chunk.css.map",
+    "static/js/2.09262563.chunk.js.LICENSE.txt": "/iTrishank/ReactQuickSort-WebLab/static/js/2.09262563.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/iTrishank/ReactQuickSort-WebLab/static/media/Quicksand-Bold.76f20c55.ttf",
+    "static/media/checked.0dd1da16.svg": "/iTrishank/ReactQuickSort-WebLab/static/media/checked.0dd1da16.svg",
+    "static/media/down-arrow.6b4f81c0.svg": "/iTrishank/ReactQuickSort-WebLab/static/media/down-arrow.6b4f81c0.svg",
+    "static/media/ffarrow.f4475283.svg": "/iTrishank/ReactQuickSort-WebLab/static/media/ffarrow.f4475283.svg",
+    "static/media/pause.75788bfa.svg": "/iTrishank/ReactQuickSort-WebLab/static/media/pause.75788bfa.svg",
+    "static/media/play.e821208c.svg": "/iTrishank/ReactQuickSort-WebLab/static/media/play.e821208c.svg",
+    "static/media/right-arrow.4b085db8.svg": "/iTrishank/ReactQuickSort-WebLab/static/media/right-arrow.4b085db8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.821ffa70.js",
+    "static/js/2.09262563.chunk.js",
+    "static/css/main.e86bfab0.chunk.css",
+    "static/js/main.fa9975cc.chunk.js"
+  ]
+}
